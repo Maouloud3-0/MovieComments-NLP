@@ -1,7 +1,7 @@
 # Classification de commentaires de films en NLP
 
 ![NLP](https://img.shields.io/badge/NLP-Text_Classification-blue)
-![Status](https://img.shields.io/badge/Status-Ternimer -red)
+![Status](https://img.shields.io/badge/Status-Ternimer-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 Projet de modélisation statistique et d’IA sur texte appliqué à des **commentaires de films** récupérés par web scraping (type AlloCiné).  
